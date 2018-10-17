@@ -2,13 +2,13 @@
 #   A quadratic time sorting algorithm. No matter what, this algorithm runs the same every single time
 #
 #   Worst Case Scenario : ---
-#     -> Comparisons : (n(n- 1)) / n
+#     -> Comparisons : (n(n- 1)) / n)
 #     -> Moves : n - 1
 #   Average Case Scenario : ---
-#      -> Comparisons : (n(n- 1)) / n
+#      -> Comparisons : (n(n- 1)) / n)
 #      -> Moves : n - 1
 #   Best Case Scenario : ---
-#      -> Comparisons : (n(n- 1)) / n
+#      -> Comparisons : (n(n- 1)) / n)
 #      -> Moves : n - 1
 class SelectionSort
 
